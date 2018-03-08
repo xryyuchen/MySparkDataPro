@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common/Common.iml" filepath="$PROJECT_DIR$/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaModule/KafkaModule.iml" filepath="$PROJECT_DIR$/KafkaModule/KafkaModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySparkDataPro.iml" filepath="$PROJECT_DIR$/MySparkDataPro.iml" />
+    </modules>
+  </component>
+</project>
